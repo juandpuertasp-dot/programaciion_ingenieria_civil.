@@ -1,4 +1,12 @@
 # programaciion_ingenieria_civil.
+* UNIVERSIDAD DE SUCRE
+
+**Facultad de ingenieria**
+
+**Departamento de ingenieria civil**
+
+**juan puertas cc:1104256186**
+
 programa de notebook aplicada en Python
 ¡Hola! Es un gusto saludarte. Como futuro ingeniero, verás que Python no es solo un lenguaje de programación, sino una herramienta de cálculo y automatización sumamente potente para tu carrera.
 
